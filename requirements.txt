@@ -1,0 +1,13 @@
+joblib
+streamlit
+scikit-learn == 1.2.2
+pandas
+numpy
+matplotlib
+seaborn
+xgboost
+catboost
+lightgbm == 3.3.2
+eli5
+shap
+ipython
