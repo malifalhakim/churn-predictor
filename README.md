@@ -1,0 +1,5 @@
+# 🔮 Churn Prediction
+
+Churn merujuk pada fenomena ketika pelanggan atau konsumen berhenti menggunakan layanan atau produk yang ditawarkan oleh suatu perusahaan. Hal ini menjadi perhatian utama bagi banyak bisnis karena dapat berdampak negatif pada pendapatan dan pertumbuhan perusahaan. Mengidentifikasi potensi churn menjadi krusial karena mencegah kehilangan pelanggan lebih murah daripada mencari pelanggan baru. Model ini dapat menganalisis perilaku pelanggan berdasarkan data historis dan mengidentifikasi calon pelanggan yang berpotensi untuk churn. Dengan demikian, perusahaan dapat mengambil langkah-langkah preventif atau strategis untuk mempertahankan pelanggan yang rentan untuk churn melalui tindakan yang dapat mempengaruhi keputusan pelanggan atau meningkatkan layanan produk.
+
+### 💻 Akses [disini](https://churn-and-cltv-prediction.streamlit.app/) 💻
